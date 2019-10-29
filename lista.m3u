@@ -1,3 +1,399 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INFANTIL",INFANTIL:  Locomotion
-http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=locomotiontv.com/envivo/loco_channel/stream.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://igx.4sqi.net/img/general/200x200/27679561_G1AdkrWJvY8Vn4MTPtLWhdvidYwIbTrPu04DFZx2gPw.png" group-title="ENTRETENIMIENTO",ENTRETENIMINETO: Canal 26
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/1/19/Nexnew.png/revision/latest/scale-to-width-down/233?cb=20150920225858" group-title="ENTRETENIMIENTO",ENTRETENIMINETO: NexTV
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO",ENTRETENIMINETO: VTV
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=edge.wms28.lorini.net/promar/promar/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MThkXS.png" group-title="MEXICO",MX: RT RUSIA
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=streamingcws20.com:1935/trecevision/videotrecevision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MThkXS.png" group-title="MEXICO",MX: TELECINCO ESPA
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MThkXS.png" group-title="MEXICO",MX: TELESISTEMA 11 REP DOMINICANA
+http://tvpremiumhd.club/lista-gratuita/213017/on/lives.php?id=ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:324_web/master_DVR.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KJaDxt9.png" group-title="ESPANA",ES: 3/24 CATALUNYA
+http://tvpremiumhd.club/lista-gratuita/213017/on/lives.php?id=www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
+#EXTINF:-1 tvg-logo="http://graph.facebook.com/BeMadTV/picture?width=320&height=320" group-title="ESPANA",ES: Be Mad
+http://tvpremiumhd.club/lista-gratuita/213017/on/iptv.php?id=ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/master
+#EXTINF:-1 tvg-logo="http://graph.facebook.com/canalsurradioytv/picture?width=320&height=320" group-title="ESPANA",ES: Canal Andalucia Cocina
+http://tvpremiumhd.club/lista-gratuita/213017/on/lives.php?id=593fa17dec176.streamlock.net/cscocina/cscocina.stream/master.m3u8
+#EXTINF:-1 tvg-logo="http://vod.streamingconnect.tv/cscocina/admin/Uploads/medias/logo.png" group-title="ESPANA",ES: Canal Andalucia Cocina (New!)
+http://tvpremiumhd.club/lista-gratuita/213017/on/lives.php?id=mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_2.m3u8
+#EXTINF:-1 tvg-logo="http://graph.facebook.com/ibizaglobaltv/picture?width=320&height=320" group-title="ESPANA",ES: Ibiza Global TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=server10.streaming-pro.com:1937/live/ibgtvlive/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KJaDxt9.png" group-title="ESPANA",ES: IBIZA GLOBAL TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KJaDxt9.png" group-title="ESPANA",ES: TV3
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFJqzx2.png" group-title="ESPANA",ES: TV3
+http://tvpremiumhd.club/lista-gratuita/213017/on/iptv.php?id=ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ICscEMh.png" group-title="ARGENTINA",ARGENTINA: AIRE DE SANTA FE
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
+#EXTINF:-1 tvg-id="138" tvg-logo="https://i.imgur.com/QX4vqEG.png" group-title="ARGENTINA",ARGENTINA: Canal 17 Milenium Salta
+http://tvpremiumhd.club/lista-gratuita/213017/on/lives.php?id=59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-WSfdALECnGU/VcYmaM7yHTI/AAAAAAAAPg4/sCwv6OV78zY/s1600/1i3qjKB.png" group-title="ARGENTINA",ARGENTINA: Canal 26
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=200.115.193.177/live/26hd-480/.m3u8?teleregiogratis?chile.m3u8
+#EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://i.imgur.com/ubzkixu.png" group-title="ARGENTINA",ARGENTINA: Canal 26
+http://tvpremiumhd.club/lista-gratuita/213017/canal26.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5HTSXV4.png" group-title="ARGENTINA",ARGENTINA: Canal 26 Buenos Aires (OP2)
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m504ZL8.png" group-title="ARGENTINA",ARGENTINA: Canal 26 HD
+http://tvpremiumhd.club/lista-gratuita/213017/on/iptv.php?id=live-edge01.telecentro.net.ar/live/26hd-720/playlist
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ICscEMh.png" group-title="ARGENTINA",ARGENTINA: CANAL 4 POSADAS
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=184.154.28.210:1935/canal4/canal4/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ICscEMh.png" group-title="ARGENTINA",ARGENTINA: CANAL 9 SALTA
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ICscEMh.png" group-title="ARGENTINA",ARGENTINA: CANAL LOCAL OLAVARRIA
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=186.0.180.11:1935/festival/mp4:festival/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ICscEMh.png" group-title="ARGENTINA",ARGENTINA: CIUDAD TV CHACO
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
+#EXTINF:-1 tvg-logo="https://www.cn247.tv/img/logo.png" group-title="ARGENTINA",ARGENTINA: CN 24/7
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oiW6vgk.jpg" group-title="ARGENTINA",ARGENTINA: Litus HD
+http://tvpremiumhd.club/lista-gratuita/213017/on/iptv.php?id=192.99.38.174:1935/litustv/ngrp:litustv_all/playlist
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/764094244722184192/ZzC-pGTJ_400x400.jpg" group-title="ARGENTINA",ARGENTINA: Litus TV Santa Fe
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oAdVLb8.png" group-title="ARGENTINA",ARGENTINA: Music Top HD
+#EXTINF:-1 tvg-id="140" tvg-logo="https://i.imgur.com/9wwq64s.jpg" group-title="ARGENTINA",ARGENTINA: Radio del Aire 89.5 FM La Plata
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=streamyes.alsolnet.com/radiodelairetv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ICscEMh.png" group-title="ARGENTINA",ARGENTINA: TELEMAX
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xu8lnw9.png" group-title="ARGENTINA",ARGENTINA: Telemax HD
+http://tvpremiumhd.club/lista-gratuita/213017/on/iptv.php?id=live-edge01.telecentro.net.ar/live/smil:tlx.smil/master
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="AUSTRALIA",AUSTRALIA: Bloomberg TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/lives.php?id=liveprodapnortheast.global.ssl.fastly.net/btv/desktop/aus_live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Oe24_Logo_2016.png" group-title="AUSTRIA",AUSTRIA: Oe24
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ORF_logo.svg/1200px-ORF_logo.svg.png" group-title="AUSTRIA",AUSTRIA: ORF 1
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=apasfiisl.apa.at/ipad/orf1_q4a/orf.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-GC4XR_qwaBA/V8iEfhTgxPI/AAAAAAAABpI/gauZ-5_RPZQxcYB3GN1R8fGBrIIR6Ah9ACLcB/s1600/ATV%2BAntwerpen.jpg" group-title="BELGICA",BELGICA: ATV (Dutch)
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=urtmpkal-f.akamaihd.net/i/1ut1nl3fq_1@316656/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xsspfDW.png" group-title="BELGICA",BELGICA: Radio Contact 102.2 FM Brussels
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Red_pat_new.jpg/180px-Red_pat_new.jpg" group-title="BOLIVIA",BOLIVIA: Red Pat
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=192.99.38.174:1935/patbolivia/patlapaz/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FSJFVte.png" group-title="BRASIL",BRASIL: AGRO TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FSJFVte.png" group-title="BRASIL",BRASIL: TV RIO
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=186.227.165.118:1935/insatv/livestream/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FSJFVte.png" group-title="BRASIL",BRASIL: TV RIO (1+)
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=186.227.165.118:1935/insatv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FSJFVte.png" group-title="BRASIL",BRASIL: TVE
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://reportercoragem.com.br/wp-content/uploads/2017/11/TVE-300x163.png" group-title="BRASIL",BRASIL: TVE Bahia
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png" group-title="BRASIL",BRASIL: TVE Rio Grande do Sul
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s20.postimg.org/65vfkdnzh/TVE.png" group-title="BRASIL",BRASIL: TVE Rio Grande do Sul (OP2)
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eBvf4zM.png" group-title="CANADA",CANADA: Canada One
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/skLKmML.png" group-title="URUGUAY",Canal-M HD		
+http://tvpremiumhd.club/lista-gratuita/213017/on/iptv.php?id=wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/master
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",CHINA: 24/7 Hollywood Movies 2
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",CHINA: 24/7 Hollywood Movies 4
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1 tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" group-title="CHINA",CHINA: 24/7 Hollywood Movies 6
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvr.cl/wp-content/uploads/2018/02/Logo315x315-300x300-200x200.png" group-title="CHILE",CL: Television Regional de Chile
+http://tvpremiumhd.club/lista-gratuita/213017/on/lives.php?id=unlimited2-cl.dps.live/tvr/tvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-nHFCYDL5_2o/AAAAAAAAAAI/AAAAAAAAAAA/5nCxkCQReb8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="COSTA RICA",CR: Telesur
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/6/6e/TV_2_Fyn.png" group-title="DINAMARCA",DINAMARCA: TV2 Fyn
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=cdn-lt-hls-vod.tv2fyn.dk/fhls/p/1966291/sp/196629100/serveFlavor/entryId/0_yct7rqn3/v/2/flavorId/0_h2wfmuqm/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/6e/TV_2_Fyn.png" group-title="DINAMARCA",DINAMARCA: TV2 Lorry
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=cdn-lt-hls-vod.tv2lorry.dk/fhls/p/2045321/sp/204532100/serveFlavor/entryId/0_0u9letdh/v/1/flavorId/0_p5f7q6yf/name/a.mp4/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.liveonlineradio.net/wp-content/uploads/2018/06/Radio-Hechos-Ecuador.jpg" group-title="ECUADOR",EC: Hechos Ecuador
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=37.187.7.106/hechostv/live.m3u8
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/UCSG-Televisi%C3%B3n.png" group-title="ECUADOR",EC: UCSG
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wcZ2Jty.gif" group-title="ESLOVENIA",ESLOVENIA: CANAL TURISMO
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=593fa17dec176.streamlock.net:1935/csturismo/csturismo.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=i63.tinypic.com/av505u.jpg" group-title="FRANCIA",FRANCIA: DJing Live (MUSIC)
+http://tvpremiumhd.club/lista-gratuita/213017/on/lives.php?id=www.djing.com/tv/live.m3u8
+#EXTINF:-1 tvg-logo="http://zaplist.streamedias.online/wp-content/uploads/2017/12/DJING-300x155.jpg" group-title="FRANCIA",FRANCIA: DJing Hits (MUSIC)
+http://tvpremiumhd.club/lista-gratuita/213017/on/lives.php?id=www.djing.com/tv/hits.m3u8
+#EXTINF:0 tvg-logo="http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=i64.tinypic.com/efo41x.jpg" group-title="FRANCIA",FRANCIA: DJing Summer Vibes (MUSIC)
+http://tvpremiumhd.club/lista-gratuita/213017/on/lives.php?id=www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="FRANCIA",FRANCIA: France 24*
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=ott-cdn.ucom.am/s25/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: 1 2 3 TV Germany
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=123tv.cdn.ses-ps.com/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: 324 ENTERTAINMENT ES SPANISH
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: 324 NOTICIES
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/324/chunklist_b1296000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: 33
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:c33_web/chunklist_b1296000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/4bc_brisbane.png" group-title="INTERNACIONAL",INTERNACIONAL: 4BC Brisbane (AUSTRALIA)
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: Abu Dhabi 1
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=adtv.ercdn.net/adsport1/adsport1_720p.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: Abu Dhabi 2
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=adtv.ercdn.net/adsport2/adsport2_720p.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: AdultSwim LIVE
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: AKC TV USA
+http://tvpremiumhd.club/lista-gratuita/213017/on/lives.php?id=video.blivenyc.com/broadcast/2061/22/file-858k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: Al Jazeera-1
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: AlJazeera Arabe
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: Aljazeera UK
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/01_logo/arab_news_network.jpg" group-title="INTERNACIONAL",INTERNACIONAL: ANN SYRIA
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=ns8.indexforce.com:1935/ann/ann/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AN66SAyW491tR4WjLYsBfZk1MXuU8vBuV0RLcU8pWQ=s900-mo-c-c0xffffffff-rj-k-no" group-title="INTERNACIONAL",INTERNACIONAL: Ariana TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w1314452267.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: B1
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=stream.adunity.com/b1/b1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elpoderdelespiritu.com/channels/bbcarabia.png" group-title="INTERNACIONAL",INTERNACIONAL: BBC Arabic (UK)*
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1 tvg-logo="http://carivision.online/wp-content/uploads/2017/10/unnamed-17.png" group-title="INTERNACIONAL",INTERNACIONAL: Carivision
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=ss6.domint.net:2012/tes_str/teleelsalvador/chunklist_w718025904.m3u8
+#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://i.imgur.com/HoMBdRo.png" group-title="INTERNACIONAL",INTERNACIONAL: CBS News
+http://tvpremiumhd.club/lista-gratuita/213017/cbsnews.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: CBS News
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: CCMA EXCLUSIU 1
+http://tvpremiumhd.club/lista-gratuita/213017/on/lives.php?id=ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:oca1_web/master_DVR.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/CGTN_arabic.png" group-title="INTERNACIONAL",INTERNACIONAL: CGTN Arabic (China)
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=live.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: Channel News Asia
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1tv.kz/wp-content/uploads/2017/11/LOG.png" group-title="INTERNACIONAL",INTERNACIONAL: Channel One Eurasia
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=streams.almaata.kcell.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#EXTINF:-1 tvg-logo="http://graph.facebook.com/del40al1/picture?width=320&height=320" group-title="INTERNACIONAL",INTERNACIONAL: Del 40 al 1 HD
+http://tvpremiumhd.club/lista-gratuita/213017/on/lives.php?id=40al1-lh.akamaihd.net/i/directo40al1_x@764444/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: Deutsche Welle Latino
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: Deutshe Welle
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8?play-only=primary
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: Discovery Science Rusia
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: EartCam Street
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=video3.earthcam.com/fecnetwork/9974.flv/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: EarthCam SouthView
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=video3.earthcam.com/fecnetwork/4017timessquare.flv/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://elektrika.tv/elektrika-tv.jpg" group-title="INTERNACIONAL",INTERNACIONAL: Elektrika TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: FatStone (Noruega)
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: FS1
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: Headlines Today
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: High Street TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 tvg-logo="http://www.asiaexhibition.lk/images/partners/partner%20logo%20hiru.jpg" group-title="INTERNACIONAL",INTERNACIONAL: Hiru TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=cdncities.com/8012/8012/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: HR Alemania
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: HUNAN LIFESTYLE CH MANDARIN
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=ktv045.cdnak.ds.kylintv.net/nlds/kylin/huntv/as/live/huntv_4.m3u8
+#EXTINF:0 tvg-logo="http://upload.wikimedia.org/wikipedia/si/8/88/ITN_TV_Sri_Lanka.png" group-title="INTERNACIONAL",INTERNACIONAL: ITN
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=cdncities.com/itndvr2/itndvr2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: Japanet Channel
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.txvikings.com/kanal10.png" group-title="INTERNACIONAL",INTERNACIONAL: Kanal 10 (NORUEGA)
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: Kanal D Turk
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=media.netd.com.tr/S2/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/92/Kazakh_tv_logo_png_1.png" group-title="INTERNACIONAL",INTERNACIONAL: Kazakh TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=kazakhtvru.ultraiptv.com/live_en/playlist1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: KRAL
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: KRAL TV HD
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=stmpo0wa.rocketcdn.com/kralworldtv_720/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: LOVE TV UK
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=loveworldtv.co.uk:1935/live/lwtvuk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: LOVE USA HD
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/index_4728_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: MDF1 Alemania
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://video.toggle.sg/image/5253176/16x9/947/533/ae942ff62b59f223ea6a9edacf1da744/Uf/channel-5.png" group-title="INTERNACIONAL",INTERNACIONAL: Mediacorp Channel 5 SINGAPORE
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=tglch5-lh.akamaihd.net/i/channel5_fta@334581/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://video.toggle.sg/image/5166818/16x9/947/533/e298594e61926869a7a2e9b2ab5d3073/qA/channel-8.png" group-title="INTERNACIONAL",INTERNACIONAL: Mediacorp Channel 8 SINGAPORE
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=tglch8-lh.akamaihd.net/i/channel8_fta@334582/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://video.toggle.sg/image/5308024/16x9/947/533/8cec3061b2409fad0d7664c7bb185808/gk/channel-u.png" group-title="INTERNACIONAL",INTERNACIONAL: Mediacorp Channel U SINGAPORE
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=tglchu-lh.akamaihd.net/i/channelu_fta@334583/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/rmk-Pryx74g/maxresdefault.jpg" group-title="INTERNACIONAL",INTERNACIONAL: Mello TV (JAMAICA)
+http://tvpremiumhd.club/lista-gratuita/213017/on/lives.php?id=wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: N4 (Islandia)
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=tv.vodafoneplay.is/n4/03.m3u8
+#EXTINF:-1 tvg-logo="http://gyangun.com/wp-content/uploads/2016/06/ntv.jpg" group-title="INTERNACIONAL",INTERNACIONAL: Nepali TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=live.zecast.net/ntvglobal/nepalitv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: NHK Wolrd Japon
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index.m3u8
+#EXTINF:-1 tvg-logo="http://pflp.ps/english/wpeng/wp-content/uploads/2016/03/paltoday.jpg" group-title="INTERNACIONAL",INTERNACIONAL: Palestine Today
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=live.paltoday.tv:1935/paltv/live/gmswf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s10.postimg.org/pfqoq4kkp/noi0mj.png" group-title="INTERNACIONAL",INTERNACIONAL: Parliament TV NUEVA ZELANDA
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=streaming.kordia.net.nz/out/u/ptv_houseaudio.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: Rai Premium
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: Realitatea TV Rumania
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: Retro TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: Retro TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/RTK_logo.png/1200px-RTK_logo.png" group-title="INTERNACIONAL",INTERNACIONAL: RTK 1
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: RTL Luxemburgo
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=live01.rtl.lu/channel1/smil:channel1/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rba.co.rw/IMG/rtv_logo.png" group-title="INTERNACIONAL",INTERNACIONAL: RTV (RUANDA)
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.rudaw.net/ContentFilesArchive/137909Image1.jpg" group-title="INTERNACIONAL",INTERNACIONAL: Rudaw
+http://tvpremiumhd.club/lista-gratuita/213017/on/lives.php?id=svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ruv.is/sites/all/themes/at_ruv/images/default-image-1200x750.png" group-title="INTERNACIONAL",INTERNACIONAL: RUV (ISLANDIA)
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index/stream4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.settv574.com/images/file/sqiLlF2i1AgBAjAv/settv574-logo.png" group-title="INTERNACIONAL",INTERNACIONAL: SET TV VIETNAM
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=livestream.vnvn.net/hls-live/livepkgr/_definst_/settv574-1/settv574-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cyprusbiodiversity.eu/assets/images/partners_listing_image/sigma.jpg" group-title="INTERNACIONAL",INTERNACIONAL: Sigma TV (Greek)
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=81.21.47.74/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: SILENCE TV HD
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=109.236.85.100:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: Sky Folk
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=www.skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: Sky News
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: Sky News
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://farm9.staticflickr.com/8202/29849722645_76c3624f9b_z.jpg" group-title="INTERNACIONAL",INTERNACIONAL: Stortinget (NORUEGA)
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/03_logo/Tallinna_Televisioon_Estonia.jpg" group-title="INTERNACIONAL",INTERNACIONAL: Tallinna TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=egress.cdn.mind.ee/tallinnatv_live/_definst_/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: The Wather Channel USA
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: Three nueva zelanda
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: TIANJIN LIFESTYLE CH MANDARIN
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=ktv045.cdnak.ds.kylintv.net/nlds/kylin/tjtv/as/live/tjtv_4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: Trailer TV Kids
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/chunklist_w194535224_b650000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: Trecevision Yucatan
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=streamingcws20.com:1935/trecevision/videotrecevision/playlist.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/05/ltrt6_b.png" group-title="INTERNACIONAL",INTERNACIONAL: TRT Kurdi
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/6814.jpg" group-title="INTERNACIONAL",INTERNACIONAL: TV Africa (Ghana)
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=africatv.live.net.sa:1935/live/africatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: TV MOCAMBIQUE
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=196.28.226.121:1935/live/smil:Channel2.smil/chunklist_b714000_slpor.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: TV2 Bomholm (Dinamarca)
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=live.tv2bornholm.dk/stream/live/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: TV5 Monde Info
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: TVGE NEW
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: TVO (Belgica)
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=urtmpkal-f.akamaihd.net/i/156m2vpg5_1@322941/index_1_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: TVR
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: Viasat Explore
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=109.248.236.41:4433/udp/238.1.1.18:1234
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.camer.be/UserFiles/file/images/caMeroun/xVision4-220616750.jpg.pagespeed.ic.sj9MCafUOv.jpg" group-title="INTERNACIONAL",INTERNACIONAL: Vision 4 (CAMERUN)
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: VULSAT TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=yayin3.canlitv.com:1935/live/vuslattv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://iptv.matthuisman.nz/nz/images/freeviewnz.60.png" group-title="INTERNACIONAL",INTERNACIONAL: Wairarapa TV NUEVA ZELANDA
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=stream.wairarapatv.co.nz/Cellular_High/playlist.m3u8
+#EXTINF:-1 tvg-name="Weather Channel" tvg-logo="https://i.imgur.com/ydCqNYb.jpg" group-title="INTERNACIONAL",INTERNACIONAL: Weather Channel
+http://tvpremiumhd.club/lista-gratuita/213017/weatherchannel.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: WeatherNation USA
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="INTERNACIONAL",INTERNACIONAL: WGN9 Chicago
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logowow.net/logos/5HLJEvTYv.png" group-title="INTERNACIONAL",INTERNACIONAL: YLE TV 1 (FINLANDIA)
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/index_2764_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://yle.fi/vintti/yle.fi/tv2/sites/tv2.yle.fi/files/katsojapalaute-logo.gif" group-title="INTERNACIONAL",INTERNACIONAL: YLE TV 2 (FINLANDIA)
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/index_2764_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://graph.facebook.com/VodafoneYU/picture?width=320&height=320" group-title="INTERNACIONAL",INTERNACIONAL: Yu No Te Pierdas Nada HD
+http://tvpremiumhd.club/lista-gratuita/213017/on/lives.php?id=universal-f.akamaihd.net/i/yu2019_x@770834/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.jennigandolfi.com/wp-content/uploads/2018/04/LOGO-CAFETV24-2018_01_12-15_26_50-UTC.png" group-title="ITALIA",ITALIA: CafeTV24 Veneto
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=srv3.meway.tv:1957/cafe/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QLnei6w.png" group-title="ITALIA",ITALIA: GLOBUS TV SICILIA
+http://tvpremiumhd.club/lista-gratuita/213017/on/lives.php?id=flash2.xdevel.com/globusradiocam/globusradiocam/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png" group-title="ITALIA",ITALIA: Rai 1
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=ott-cdn.ucom.am/s29/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/1200px-Rai_4_-_Logo_2016.svg.png" group-title="ITALIA",ITALIA: Rai 4
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/500px-RAI_Movie_2010_Logo.svg_.png" group-title="ITALIA",ITALIA: Rai Movie
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1280px-Rai_News_24_-_Logo_2013.svg.png" group-title="ITALIA",ITALIA: Rai News 24
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rai_Sport_-_Logo_2017.svg/1200px-Rai_Sport_-_Logo_2017.svg.png" group-title="ITALIA",ITALIA: Rai Sport (Geo)
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3d/Rai_Sport_HD_new_logo.svg.png" group-title="ITALIA",ITALIA: Rai Sport+ (Geo)
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4145
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/1200px-TV_Tokyo_logo_20110629.svg.png" group-title="JAPAN",JAPAN: TV Tokyo
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=192.240.127.34:1935/live/cs18.stream/playlist.m3u8?wowzasessionid=1009455217
+#EXTINF:-1 tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/2017/10/6-2.jpg" group-title="JAPAN",JAPAN: Wowow Cinefil
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/57e016db6b8f5bbe95acde7d/t/5b620bab352f53819eb8df27/1533152171765/2017_DSTV_Logo_Silver+2.png" group-title="MUSICA",MUSICA: Dancestar TV (USA)
+http://tvpremiumhd.club/lista-gratuita/213017/on/lives.php?id=vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",MUSICA: Djing Classic
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=djing.com/tv/hits.m3u8
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",MUSICA: Djing Electro Rock
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=djing.com/tv/session_electro-rock.m3u8
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",MUSICA: Djing French touch
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=djing.com/tv/session_french-touch.m3u8
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",MUSICA: Djing Ibiza
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XX9A1OQ.jpg" group-title="MUSICA",MUSICA: DJIng Ibiza HD
+http://tvpremiumhd.club/lista-gratuita/213017/on/iptv.php?id=www.djing.com/tv/ibiza
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",MUSICA: Djing Karaoke
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=djing.com/tv/karaoke.m3u8
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",MUSICA: Djing Summer Vibes
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",MUSICA: Djing TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=djing.com/tv/live.m3u8
+#EXTINF:-1 tvg-logo="http://logo.fight-show.ru/logos/source/c01.jpg" group-title="MUSICA",MUSICA: Djing Underground
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=djing.com/tv/underground.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="MUSICA",MUSICA: Dream TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LtfxEsj.jpg" group-title="MUSICA",MUSICA: FRECUENCIA MUSICAL TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=streaminglivehd.com:1935/8056/8056/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ae/Hit_music_channel1.png" group-title="MUSICA",MUSICA: Hit Music Channel
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uFbyigf.png" group-title="MUSICA",MUSICA: M2O TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/bi.php?id=2IILfjB
+#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/27274/logo_melody%20channel1.png" group-title="MUSICA",MUSICA: Melody Channel
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?eamogratis?Musica.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="MUSICA",MUSICA: Music Top
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/63s1k43.png" group-title="MUSICA",MUSICA: Portal FoxMix HD
+http://tvpremiumhd.club/lista-gratuita/213017/on/iptv.php?id=149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="MUSICA",MUSICA: PortalF. Mix Tv
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LCdljln.png" group-title="MUSICA",MUSICA: Radio 105 Network HD
+http://tvpremiumhd.club/lista-gratuita/213017/on/iptv.php?id=fms.105.net:1935/live/105Test1/playlist
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VpZPZEv.png" group-title="MUSICA",MUSICA: Radio Montecarlo TV
+http://tvpremiumhd.club/lista-gratuita/213017/on/iptv.php?id=fms.105.net:1935/live/rmc1/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Sxb2ffE.png" group-title="MUSICA",MUSICA: RADIO TIVU AZZURRA
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="MUSICA",MUSICA: Telemusica
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/05/RBC-TV1.jpg" group-title="RUSIA",RUSIA: RBC
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/05/RBC-TV1.jpg" group-title="RUSIA",RUSIA: RBC*
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/05/RBC-TV1.jpg" group-title="RUSIA",RUSIA: RBC**
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.realmeter.net/wp-content/uploads/2015/10/data-_-cbs.jpg" group-title="SOUTH KOREA",SOUTH KOREA: CBS
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.realmeter.net/wp-content/uploads/2015/10/data-_-cbs.jpg" group-title="SOUTH KOREA",SOUTH KOREA: CBS*
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
+#EXTINF:-1 tvg-logo="http://static.ebs.co.kr/www/common/img/global/thum_default_tv2.jpg" group-title="SOUTH KOREA",SOUTH KOREA: EBS 2
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://m.ebse.co.kr/new2014/images/Comm/EBS_English.jpg" group-title="SOUTH KOREA",SOUTH KOREA: EBS English
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cb/AKR20120628019000005_01_i.jpg" group-title="SOUTH KOREA",SOUTH KOREA: EBS Kids
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/Channels_IPTV_01.png" group-title="SOUTH KOREA",SOUTH KOREA: EBS Plus 1
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Channels_IPTV_02.png" group-title="SOUTH KOREA",SOUTH KOREA: EBS Plus 2
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ko/5/5f/G1-Logo.jpg" group-title="SOUTH KOREA",SOUTH KOREA: G1
+http://tvpremiumhd.club/lista-gratuita/213017/on/live.php?id=smart.igtb.co.kr:1935/live/stream.sdp/playlist.m3u8
+
